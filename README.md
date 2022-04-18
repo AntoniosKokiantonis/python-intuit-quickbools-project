@@ -2,6 +2,6 @@
 
 ##installation
 run |'python install -r requirments.txt'
-[cv.docx](https://github.com/AntoniosKokiantonis/python-intuit-quickbools-project/files/8505417/cv.docx)
+[cv.pdf](https://github.com/AntoniosKokiantonis/python-intuit-quickbools-project/files/8505542/cv.pdf)
 
 
